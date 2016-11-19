@@ -1,5 +1,10 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
-
+/** Ashleigh's Advice Styles  **/
+.ashleigh-advice{
+	background-color: #ffcc5c;
+	font-weight: bold
+	
+}
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
